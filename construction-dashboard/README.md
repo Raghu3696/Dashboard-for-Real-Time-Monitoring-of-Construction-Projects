@@ -227,9 +227,9 @@ MIT License - feel free to use this project for your portfolio or commercial app
 
 ## 👨‍💻 Author
 
-Built with ❤️ for construction project management
+Built for construction project management
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - React team for the amazing framework
 - Recharts for beautiful data visualization
